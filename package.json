@@ -1,5 +1,4 @@
 {
-  "private": true,
   "name": "insomnia-plugin-query-parameter-tag",
   "version": "0.1.0",
   "author": "Fabio Sousa",
@@ -29,7 +28,7 @@
       "name": "Fabio Sousa",
       "icon": "https://avatars.githubusercontent.com/u/46865832?v=7"
     },
-    "unlisted": true
+    "unlisted": false
   },
   "main": "main.js"
 }
