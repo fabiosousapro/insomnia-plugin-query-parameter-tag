@@ -1,0 +1,35 @@
+{
+  "private": true,
+  "name": "insomnia-plugin-query-parameter-tag",
+  "version": "0.1.0",
+  "author": "Fabio Sousa",
+  "description": "Insomnia plugin for use query parameter value from Query tab as a tag",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabiosousapro/insomnia-plugin-query-parameter-tag.git"
+  },
+  "keywords": [
+    "insomnia",
+    "insomnia plugin",
+    "plugin",
+    "query",
+    "query parameter",
+    "template tag",
+    "tag"
+  ],
+  "insomnia": {
+    "name": "query-parameter-tag",
+    "description": "Use query parameter from Query Tab as a tag",
+    "images": {
+      "icon": "icon.png",
+      "cover": "cover.jpg"
+    },
+    "publisher": {
+      "name": "Fabio Sousa",
+      "icon": "https://avatars.githubusercontent.com/u/46865832?v=7"
+    },
+    "unlisted": true
+  },
+  "main": "main.js"
+}
