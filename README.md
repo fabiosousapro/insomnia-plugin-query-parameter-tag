@@ -13,11 +13,11 @@
 <!-- FIXME show Install methods when plugin url is available -->
 ## Install
 
-[![Install this plugin](https://img.shields.io/badge/Insomnia_Plugin-Install-4a01c6?style=for-the-badge)](insomnia://plugins/install?name=insomnia-plugin-query-parameter-tag) 
+<!-- [![Install this plugin](https://img.shields.io/badge/Insomnia_Plugin-Install-4a01c6?style=for-the-badge)](insomnia://plugins/install?name=insomnia-plugin-query-parameter-tag "Install this plugin")  -->
 
 + In **[Insomnia]** app
 + Go to `Application` > `Preferences` > `Plugins`
-+ Type `insomnia-plugin-query-parameter-tag`
++ Type `insomnia-plugin-query-parameter-tag` on input field
 + Click on `Install Plugin`. 
 
 ## Usage
