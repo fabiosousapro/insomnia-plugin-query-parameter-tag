@@ -28,8 +28,7 @@
     "publisher": {
       "name": "Fabio Sousa",
       "icon": "https://avatars.githubusercontent.com/u/46865832?v=7"
-    },
-    "unlisted": false
+    }
   },
   "main": "main.js"
 }
