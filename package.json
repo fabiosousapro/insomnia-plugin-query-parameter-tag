@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-query-parameter-tag",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Fabio Sousa",
   "description": "Insomnia plugin for use query parameter value from Query tab as a tag",
   "license": "MIT",
@@ -11,6 +11,7 @@
   "keywords": [
     "insomnia",
     "insomnia plugin",
+    "fspro-dev",
     "plugin",
     "query",
     "query parameter",
@@ -22,7 +23,7 @@
     "description": "Use query parameter from Query Tab as a tag",
     "images": {
       "icon": "icon.png",
-      "cover": "cover.jpg"
+      "cover": "cover.jpeg"
     },
     "publisher": {
       "name": "Fabio Sousa",
