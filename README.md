@@ -5,7 +5,7 @@
 # Query Parameter Tag
 
 <!-- FIXME show NPM Badge when plugin url is available -->
-[![Insomnia Plugin](https://img.shields.io/static/v1?label=insomnia&message=plugin&color=4a01c6)](https://insomnia.rest/plugins/insomnia-plugin-query-parameter-tag).[![NPM](https://img.shields.io/npm/v/insomnia-plugin-query-parameter-tag.svg)](https://www.npmjs.com/package/insomnia-plugin-query-parameter-tag).[![fabiosousapro - insomnia-plugin-query-parameter-tag](https://img.shields.io/static/v1?label=fabiosousapro&message=insomnia-plugin-query-parameter-tag&color=blue&logo=github)](https://github.com/fabiosousapro/insomnia-plugin-query-parameter-tag "Go to GitHub repo")
+[![Insomnia Plugin](https://img.shields.io/static/v1?label=insomnia&message=plugin&color=4a01c6)](https://insomnia.rest/plugins/insomnia-plugin-query-parameter-tag)[![NPM](https://img.shields.io/npm/v/insomnia-plugin-query-parameter-tag.svg)](https://www.npmjs.com/package/insomnia-plugin-query-parameter-tag)[![fabiosousapro - insomnia-plugin-query-parameter-tag](https://img.shields.io/static/v1?label=fabiosousapro&message=insomnia-plugin-query-parameter-tag&color=blue&logo=github)](https://github.com/fabiosousapro/insomnia-plugin-query-parameter-tag "Go to GitHub repo")
 
 <!-- FIXME show Github Start Badge when repository public is available -->
 <!-- ![GitHub Repo stars](https://img.shields.io/github/stars/fabiosousapro/insomnia-plugin-query-parameter-tag?style=social) -->
