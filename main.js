@@ -1,6 +1,6 @@
-const queryParameterTag = {
+const queryParameterTagOrTemp = {
   name: "queryParam",
-  displayName: "Query Parameter",
+  displayName: "Query Parameter or Temp Value",
   liveDisplayName(args) {
     const name = args[0].value;
     return name && name;
@@ -13,8 +13,17 @@ const queryParameterTag = {
       placeholder: "Choice query parameter available in Query tab",
       type: "string",
     },
+    {
+      displayName: 'Temp Value',
+      description: 'If you need a temp value fill this in else it will default to query value',
+      placeholder: "Default",
+      type: "string",
+    },
   ],
-  async run(context, name) {
+  async run(context, name, temp) {
+    if (temp) {
+      return context.util.render(temp)
+    }
     if (!name) {
       name = "";
     }
@@ -40,4 +49,4 @@ const queryParameterTag = {
   },
 };
 
-module.exports.templateTags = [queryParameterTag];
+module.exports.templateTags = [queryParameterTagOrTemp];
